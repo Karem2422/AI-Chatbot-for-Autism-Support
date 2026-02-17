@@ -1,11 +1,11 @@
-# 💙 AI Chatbot for Autism Support
+#  AI Chatbot for Autism Support
 
 A calming, interactive, and mobile-friendly chatbot designed to provide emotional support, routine management, and relaxation techniques for individuals on the autism spectrum.
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## 🌟 Features
+##  Features
 
 *   **Emotion Recognition**: The chatbot detects key emotional words (e.g., "sad", "anxious", "happy") and provides empathetic, tailored responses.
 *   **Interactive Breathing Exercise**: A built-in visual widget guides users through a calming 4-4-4 breathing rhythm to help manage anxiety.
@@ -21,7 +21,7 @@ A calming, interactive, and mobile-friendly chatbot designed to provide emotiona
 *   **Lucide React**: For beautiful, consistent, and lightweight icons.
 *   **CSS3**: Custom styling with Flexbox, CSS Variables, and Animations (no external CSS frameworks used for maximum control).
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -51,7 +51,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 4.  **Open your browser**
     Navigate to `http://localhost:5173` to view the app.
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 ai-chatbot-support/
@@ -67,21 +67,21 @@ ai-chatbot-support/
 └── vite.config.js       # Vite configuration
 ```
 
-## 🎮 Usage Guide
+## Usage Guide
 
 -   **Chatting**: Type a message in the input bar or use the quick action chips.
--   **Breathing**: Type "breathe", "anxious", or click the "Anxious 😰" chip to start the breathing widget.
--   **Schedule**: Type "schedule", "routine", or click the "Schedule 📅" chip to view the daily checklist.
+-   **Breathing**: Type "breathe", "anxious", or click the "Anxious " chip to start the breathing widget.
+-   **Schedule**: Type "schedule", "routine", or click the "Schedule " chip to view the daily checklist.
 -   **Interactions**: Click on schedule items to check them off.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 *   **Personalization**: Allow users to customize their daily schedule and preferred colors.
 *   **Voice Integration**: Add text-to-speech and speech-to-text for better accessibility.
 *   **More Widgets**: Include sensory timers, visual stories, or mood tracking.
 *   **Backend Integration**: Connect to a backend to save user preferences and chat history.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -91,10 +91,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4.  Push to the branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with 💙 for the community.
+Made with love for the community.
